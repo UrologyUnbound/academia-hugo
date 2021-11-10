@@ -45,7 +45,7 @@
 git clone git@github.com:themefisher/academia-hugo.git
 
 # cd in the project directory
-$ cd academia-hugo/exampleSite/
+$ cd academia-hugo/mySite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
